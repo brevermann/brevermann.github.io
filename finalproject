@@ -1,9 +1,9 @@
 body {
-    background-color: orange;
+    background-color: blue;
 }
   
 h1 {
-  color: red;
+  color: white;
   margin-left: 20px;
 }
 
