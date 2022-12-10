@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+  
+h1 {
+  color: white;
+  margin-left: 20px;
+}
+
+#myDiv{
+  background-color: rgb(228, 20, 82);
+  border-style: filled;
+  border-color: rgb(11, 236, 11);
+}
